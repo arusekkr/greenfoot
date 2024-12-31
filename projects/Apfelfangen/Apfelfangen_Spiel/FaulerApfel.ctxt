@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=FaulerApfel
-comment0.text=\r\n\ Kann\ nur\ faulen\ sonst\ nichts.\ \r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
-comment1.params=
-comment1.target=void\ act()
-comment1.text=\ bewegt\ sich\ nicht\ sondern\ fault\ nur\ an\ der\ Stelle,\r\n\ an\ der\ ein\ reifer\ Apfel\ den\ Boden\ ber\u00FCht.\r\n
-numComments=2
