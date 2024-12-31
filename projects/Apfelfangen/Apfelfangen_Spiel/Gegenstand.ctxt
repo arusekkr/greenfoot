@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gegenstand
+comment0.text=\r\n\ Diese\ Klasse\ modelliert\ einen\ fallenden\ Gegenstand.\r\n\ \r\n\ @author\ Daniel\ Garmann\r\n\ @version\ 2018-09-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Der\ Gegenstand\ f&auml;llt\ mit\ seiner\ Geschwindigkeit\ in\ Richtung\ Boden.\r\n\ @param\ pFallgeschwindigkeit\ die\ Fallgeschwindigkeit\ des\ Gegenstands.\r\n
+comment2.params=
+comment2.target=void\ fallen()
+comment3.params=
+comment3.target=void\ schnellfallen()
+numComments=4

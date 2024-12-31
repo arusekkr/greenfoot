@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Apfel
+comment0.text=\r\n\ Die\ Klasse\ Apfel\ modelliert\ den\ speziellen\ fallenden\ Gegenstand,\ den\ der\ Spieler\r\n\ versuchen\ muss,\ aufzufangen.\r\n\ \r\n\ @author\ Daniel\ Garmann\r\n\ @version\ 2018-09-14\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Die\ Methode\ act\ sorgt\ daf&uuml;r,\ dass\ der\ Apfel\ in\ seiner\ Geschwindigkeit\ f&auml;llt.\r\n
+comment2.params=
+comment2.target=void\ fallen()
+comment3.params=
+comment3.target=void\ faulen()
+numComments=4
